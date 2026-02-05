@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Phone icon with block symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,27
+        C39.09,27 27,39.09 27,54
+        C27,68.91 39.09,81 54,81
+        C68.91,81 81,68.91 81,54
+        C81,39.09 68.91,27 54,27z
+        M54,75
+        C42.4,75 33,65.6 33,54
+        C33,42.4 42.4,33 54,33
+        C65.6,33 75,42.4 75,54
+        C75,65.6 65.6,75 54,75z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,48
+        L44,52
+        C44,53.1 44.9,54 46,54
+        L48,54
+        L48,60
+        C48,61.1 48.9,62 50,62
+        L58,62
+        C59.1,62 60,61.1 60,60
+        L60,54
+        L62,54
+        C63.1,54 64,53.1 64,52
+        L64,48
+        C64,46.9 63.1,46 62,46
+        L46,46
+        C44.9,46 44,46.9 44,48z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M36,36 L72,72"/>
+</vector>

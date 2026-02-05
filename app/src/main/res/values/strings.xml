@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stop Démarchage</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_prefixes">Préfixes</string>
+    <string name="nav_history">Historique</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Stop Démarchage</string>
+    <string name="home_protection_active">Protection active</string>
+    <string name="home_protection_inactive">Protection inactive</string>
+    <string name="home_calls_blocked_today">Appels bloqués aujourd\'hui</string>
+    <string name="home_calls_blocked_week">Cette semaine</string>
+    <string name="home_calls_blocked_month">Ce mois</string>
+    <string name="home_active_prefixes">Préfixes actifs</string>
+    <string name="home_setup_required">Configuration requise</string>
+    <string name="home_setup_description">Activez Stop Démarchage comme service de filtrage d\'appels par défaut</string>
+    <string name="home_setup_button">Configurer</string>
+
+    <!-- Prefix Screen -->
+    <string name="prefix_title">Gestion des préfixes</string>
+    <string name="prefix_add">Ajouter un préfixe</string>
+    <string name="prefix_edit">Modifier le préfixe</string>
+    <string name="prefix_delete">Supprimer</string>
+    <string name="prefix_number_hint">Préfixe (ex: +33162)</string>
+    <string name="prefix_description_hint">Description (optionnel)</string>
+    <string name="prefix_save">Enregistrer</string>
+    <string name="prefix_cancel">Annuler</string>
+    <string name="prefix_enabled">Actif</string>
+    <string name="prefix_disabled">Inactif</string>
+    <string name="prefix_empty">Aucun préfixe configuré</string>
+    <string name="prefix_load_defaults">Charger les préfixes par défaut</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Historique des appels bloqués</string>
+    <string name="history_empty">Aucun appel bloqué</string>
+    <string name="history_delete_all">Tout supprimer</string>
+    <string name="history_delete_confirm">Voulez-vous supprimer tout l\'historique ?</string>
+    <string name="history_matched_prefix">Préfixe correspondant: %s</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_general">Général</string>
+    <string name="settings_enable_blocking">Activer le blocage</string>
+    <string name="settings_enable_blocking_desc">Bloquer les appels des numéros correspondant aux préfixes</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_notify_blocked">Notifier les appels bloqués</string>
+    <string name="settings_notify_blocked_desc">Afficher une notification pour chaque appel bloqué</string>
+    <string name="settings_data">Données</string>
+    <string name="settings_auto_cleanup">Nettoyage automatique</string>
+    <string name="settings_auto_cleanup_desc">Supprimer l\'historique de plus de 30 jours</string>
+    <string name="settings_export">Exporter les préfixes</string>
+    <string name="settings_import">Importer des préfixes</string>
+    <string name="settings_about">À propos</string>
+    <string name="settings_version">Version %s</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">Confirmer</string>
+    <string name="dialog_cancel">Annuler</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+
+    <!-- Toasts -->
+    <string name="toast_prefix_added">Préfixe ajouté</string>
+    <string name="toast_prefix_updated">Préfixe mis à jour</string>
+    <string name="toast_prefix_deleted">Préfixe supprimé</string>
+    <string name="toast_export_success">Export réussi</string>
+    <string name="toast_import_success">Import réussi</string>
+    <string name="toast_error">Une erreur s\'est produite</string>
+</resources>
